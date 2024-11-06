@@ -1,4 +1,4 @@
-# DCTM-RRT: Distributed and Communication-aware Memory-based RRT (DTM-RRT) Exploration
+# DCTM-RRT: Distributed and Communication-aware Memory-based RRT (DCTM-RRT) Exploration
 
 Preparing...
 (Paper under submission)
